@@ -1,3 +1,16 @@
-# Trees_Cpp
-<h1> Practice problems related to tree data structure </h1>
+
+# 🌳 Tree Data Structures
+
+This repository contains implementations of various tree data structures and associated algorithms. 
+
+## 📁 Contents
+
+- **Binary Tree**
+- **Binary Search Tree (BST)**
+- **Trie (Prefix Tree)**
+- **Tree Traversal Algorithms**
+- **Common Operations** (insert, delete, search, balance, etc.)
+
+
+
 
